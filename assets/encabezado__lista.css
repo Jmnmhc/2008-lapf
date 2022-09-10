@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .encabezado__lista{
     display: flex;
     justify-content: flex-end;
@@ -11,17 +10,3 @@
     margin-bottom: 1rem;
 }
 
-=======
-.encabezado__lista{
-    display: flex;
-    justify-content: flex-end;
-
-}
-
-.encabezado__lista___item{
-    padding: .5rem;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-}
-
->>>>>>> 6abedba97edce93722a8390eb359640325e01607

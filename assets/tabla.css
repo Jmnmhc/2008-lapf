@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .tabla{
 	width: 70%;
 	margin-top: 5rem;
@@ -44,50 +43,3 @@
 
 }
 
-=======
-.tabla{
-	width: 70%;
-	margin-top: 5rem;
-    margin-bottom : 5rem;
-    table-layout: fixed;
-    margin-left: 15%;
-    margin-right: 15%;
-}
-
-.tabla__datos, .tabla__encabezado{
-	padding: .7em;
-	margin: 0;
-	border: 1px solid #ccc;
-	text-align: center;
-	vertical-align:middle;
-	font-size: .9rem;
-
-}
-
-.tabla__encabezado{
-	font-weight: bold;
-	background-color: #888;
-}
-.tabla__datos{
-    background-color: #EEE;
-	text-align: center;
-}
-
-
-	@media screen and (max-width: 780px){
-		.tabla{
-			display: none;
-		}
-
-		.datos__plano{
-			margin-top: 2rem;
-			display: block;
-			margin-left: 2rem;
-					}
-		strong{
-			font-weight: bold;
-		}
-
-}
-
->>>>>>> 6abedba97edce93722a8390eb359640325e01607
